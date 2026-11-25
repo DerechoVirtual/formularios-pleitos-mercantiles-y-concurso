@@ -1,0 +1,29 @@
+{
+  "name": "formularios-pleitos-mercantiles-y-concurso",
+  "owner": {
+    "name": "Derecho Virtual",
+    "url": "https://jurisprudenciator.lexiaipro.org"
+  },
+  "metadata": {
+    "description": "Pleitos mercantiles: acuerdos sociales, administradores, competencia desleal y concurso · España (33 formularios). Para litigar ante la Sección de lo Mercantil: impugnación de acuerdos sociales, acción social e individual de responsabilidad de administradores, disolución judicial, derecho de información y de separación del socio, competencia desleal y publicidad ilícita, y escritos en el concurso de acreedores. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+    "version": "1.1.0"
+  },
+  "plugins": [
+    {
+      "name": "formularios-pleitos-mercantiles-y-concurso",
+      "source": "./",
+      "description": "Pleitos mercantiles: acuerdos sociales, administradores, competencia desleal y concurso · España (33 formularios). Para litigar ante la Sección de lo Mercantil: impugnación de acuerdos sociales, acción social e individual de responsabilidad de administradores, disolución judicial, derecho de información y de separación del socio, competencia desleal y publicidad ilícita, y escritos en el concurso de acreedores. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+      "version": "1.1.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "mercantil",
+        "litigios-mercantiles"
+      ]
+    }
+  ]
+}
